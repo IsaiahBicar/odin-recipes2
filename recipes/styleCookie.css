@@ -1,0 +1,21 @@
+*{
+    /*border: 2px solid red;*/
+    background-color: antiquewhite;
+}
+
+.Titles{
+    text-align: center;
+}
+
+.rounded-image{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+    border-radius: 10% 10% 10% 10%;
+}
+
+.Titles.Ingridients,
+.Titles.Steps{
+    text-align: left;
+}
